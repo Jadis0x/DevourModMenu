@@ -23,11 +23,11 @@ Mod access is activated for users who support the project. Please contact me on 
 
 Discord: `Jadis0x`
 
-## Requirements
+## What is Westwest?
 
-- Windows 10/11 (64-bit)
-- A legitimate Steam copy of DEVOUR
-- Microsoft Visual C++ Redistributable (x64)
+Westwest is my mod loader and library for distributing and managing my mods. It will also check compatibility before installation. DevourModMenu is currently available through Westwest, and I plan to publish more mods there in the future.
+
+![Westwest mod library showing DevourModMenu](img/westwest-showcase.png)
 
 ## Installation
 
