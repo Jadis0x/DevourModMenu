@@ -31,10 +31,13 @@ Discord: `Jadis0x`
 
 ## Installation
 
-1. Copy the `DevourMenu.dll` file into the `Mods` folder in the DEVOUR directory.
-2. Start DEVOUR through Steam. The menu will be available after your account has been activated.
+1. Download and install the Westwest `.exe` from its GitHub Releases page, then launch Westwest.
+2. If Westwest asks for device approval, send me the displayed device code on Discord (`Jadis0x`). I will approve your device; try again after I confirm.
+3. Select **DevourModMenu** in Westwest. It will try to locate your DEVOUR installation in your Steam libraries. If it cannot find it, click **CHOOSE ROOT** and select the folder containing `DEVOUR.exe`.
+4. Click **VERIFY & INSTALL**. Westwest verifies the release and installs it under the game's `Mods` folder. Use **INSTALL UPDATE** for later releases.
+5. Launch DEVOUR through Steam.
 
-Do not rename the DLL or modify the files supplied with your access. If the menu does not appear, contact me on Discord before reinstalling anything.
+Use Westwest to update or uninstall the mod. Do not manually copy, rename, or modify its installed files. If the menu does not appear, contact me on Discord before reinstalling anything.
 
 ## Features
 
