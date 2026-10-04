@@ -10,37 +10,10 @@
 Ultimate mod menu for DEVOUR.
 </p>
 
-<img alt="ss1" src="img/Screenshot.png" />
-<img alt="ss2" src="img/Screenshot2.png" />
-<img alt="ss3" src="img/Screenshot3.png" />
-
-
-## Access
-
-DevourModMenu is a private project. The source code is not distributed.
-
-Mod access is activated for users who support the project. Please contact me on Discord **before making any payment** so I can provide the current access and installation details.
-
-Discord: `Jadis0x`
-
-## What is Westwest?
-
-Westwest is my mod loader and library for distributing and managing my mods. It will also check compatibility before installation. DevourModMenu is currently available through Westwest, and I plan to publish more mods there in the future.
-
-![Westwest mod library showing DevourModMenu](img/westwest-showcase.png)
-
-## Installation
-
-1. Download and install the Westwest `.exe` from its GitHub Releases page, then launch Westwest.
-2. If Westwest asks for device approval, send me the displayed device code on Discord (`Jadis0x`). I will approve your device; try again after I confirm.
-3. Select **DevourModMenu** in Westwest. It will try to locate your DEVOUR installation in your Steam libraries. If it cannot find it, click **CHOOSE ROOT** and select the folder containing `DEVOUR.exe`.
-4. Click **VERIFY & INSTALL**. Westwest verifies the release and installs it under the game's `Mods` folder. Use **INSTALL UPDATE** for later releases.
-5. Launch DEVOUR through Steam.
-
-Use Westwest to update or uninstall the mod. Do not manually copy, rename, or modify its installed files. If the menu does not appear, contact me on Discord before reinstalling anything.
-
 ## Features
-
+- Server Browser
+- Anti-Kick
+- Spectator Mode
 - Walk In Lobby
 - Fullbright
 - UV Light
@@ -69,7 +42,42 @@ Use Westwest to update or uninstall the mod. Do not manually copy, rename, or mo
 - Outfit Selector
 - Carry Item
 
-Feature availability may vary by game version and authorized build.
+  ...
+
+## Access
+
+DevourModMenu is a private project. The source code is not distributed.
+
+Mod access is activated for users who support the project (€15/lifetime). Please contact me on Discord **before making ANY PAYMENT** so I can provide the current access and installation details.
+
+Discord: `Jadis0x`
+
+## Showcase
+
+<img alt="ss1" src="img/Screenshot.png" />
+<img alt="ss2" src="img/Screenshot2.png" />
+<img alt="ss3" src="img/Screenshot3.png" />
+
+## Video Showcase
+[![DevourModMenu v6.0.0 Showcase](https://img.youtube.com/vi/CJqDp5Dm9cU/maxresdefault.jpg)](https://youtu.be/CJqDp5Dm9cU)
+
+▶ **[Watch on YouTube](https://youtu.be/CJqDp5Dm9cU)**
+
+## What is Westwest?
+
+Westwest is my mod loader and library for distributing and managing my mods. It will also check compatibility before installation. DevourModMenu is currently available through Westwest, and I plan to publish more mods there in the future.
+
+![Westwest mod library showing DevourModMenu](img/westwest-showcase.png)
+
+## Installation
+
+1. Download and install the Westwest `.exe` from its GitHub Releases page, then launch Westwest.
+2. If Westwest asks for device approval, send me the displayed device code on Discord (`Jadis0x`). I will approve your device; try again after I confirm.
+3. Select **DevourModMenu** in Westwest. It will try to locate your DEVOUR installation in your Steam libraries. If it cannot find it, click **CHOOSE ROOT** and select the folder containing `DEVOUR.exe`.
+4. Click **VERIFY & INSTALL**. Westwest verifies the release and installs it under the game's `Mods` folder. Use **INSTALL UPDATE** for later releases.
+5. Launch DEVOUR through Steam.
+
+Use Westwest to update or uninstall the mod. Do not manually copy, rename, or modify its installed files. If the menu does not appear, contact me on Discord before reinstalling anything.
 
 ## Support
 
